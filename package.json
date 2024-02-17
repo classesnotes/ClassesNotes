@@ -1,0 +1,15 @@
+{
+  "name": "classesnotes",
+  "version": "1.0.0",
+  "description": "class notes package",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Index.js"
+  },
+  "author": "class notes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
